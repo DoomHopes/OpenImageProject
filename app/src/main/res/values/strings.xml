@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OpenImageProject</string>
+    <string name="work_with_img">Работа с картинками</string>
+    <string name="add_image">Add Image</string>
+</resources>
